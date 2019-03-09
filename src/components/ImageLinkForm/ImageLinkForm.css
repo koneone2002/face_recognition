@@ -1,0 +1,16 @@
+.form {
+  width: 700px;
+  background-color:#001;
+  background-image: radial-gradient(white 15%, transparent 16%),
+  radial-gradient(white 15%, transparent 16%);
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px;
+  font-family: sans-serif;
+}
+
+.link {
+  font-family: sans-serif;
+}
+input {
+  font-family: sans-serif;
+}
