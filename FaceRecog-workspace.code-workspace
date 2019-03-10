@@ -1,14 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "/Users/katie/node"
-		},
-		{
-			"path": "/Users/katie/MyChromeExtension"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "/Users/katie/node"
+    },
+    {
+      "path": "/Users/katie/MyChromeExtension"
+    },
+    {
+      "path": "/Users/katie/WebDevUdemy/robofriends"
+    }
+  ]
 }
