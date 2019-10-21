@@ -11,6 +11,85 @@
     },
     {
       "path": "/Users/katie/WebDevUdemy/robofriends"
+    },
+    {
+      "path": "/Users/katie/WebDevUdemy/Junior to Senior/performance "
+    },
+    {
+      "path": "/Users/katie/WebDevUdemy/Junior to Senior/performance2"
+    },
+    {
+      "path": "/Users/katie/WebDevUdemy/Junior to Senior/Above the fold"
+    },
+    {
+      "path": "/Users/katie/WebDevUdemy/Junior to Senior/keiko-corp"
+    },
+    {
+      "path": "/Users/katie/robofriends2"
+    },
+    {
+      "path": "/Users/katie/mycalculator"
+    },
+    {
+      "path": "/Users/katie/middleware"
+    },
+    {
+      "path": "/Users/katie/AdvancedReduxCode/auth2"
+    },
+    {
+      "path": "/Users/katie/AdvancedReduxCode/auth"
+    },
+    {
+      "path": "/Users/katie/ReduxSimpleStarter"
+    },
+    {
+      "path": "/Users/katie/webpack-project"
+    },
+    {
+      "path": "/Users/katie/lyric_search"
+    },
+    {
+      "path": "/Users/katie/Desktop/BootCampClass/code/SmoothScroll"
+    },
+    {
+      "path": "/Users/katie/contactmanager"
+    },
+    {
+      "path": "/Users/katie/recipe_search"
+    },
+    {
+      "path": "/Users/katie/landing_page"
+    },
+    {
+      "path": "/Users/katie/katieportfolio"
+    },
+    {
+      "path": "/Users/katie/the_venue"
+    },
+    {
+      "path": "/Users/katie/clicky-game"
+    },
+    {
+      "path": "/Users/katie/timer-tutorial"
+    },
+    {
+      "path": "/Users/katie/signin_signup"
+    },
+    {
+      "path": "/Users/katie/ModHTML"
+    },
+    {
+      "path": "/Users/katie/js_sandbox"
+    },
+    {
+      "path": "/Users/katie/Desktop/my stuff/BootCampClass/code/unit-4-game"
+    },
+    {
+      "path": "/Users/katie/AlgoCasts-master"
     }
-  ]
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "liveServer.settings.multiRootWorkspaceName": "ModHTML"
+  }
 }
